@@ -1,0 +1,14 @@
+{
+  "service": "Hello",
+  "method": "SayHello",
+  "input": {
+    "equals": {
+      "name": "World"
+    }
+  },
+  "output": {
+    "data": {
+      "message": "Hello World"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "service": "Hello",
+  "method": "SayHello",
+  "input": {
+    "equals": {
+      "name": "Cong"
+    }
+  },
+  "output": {
+    "data": {
+      "message": "Hello Cong"
+    }
+  }
+}
